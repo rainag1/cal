@@ -4,6 +4,6 @@
 
 
 
-# To see the output [CLICK HERE](https://github.com/rainag1/menu.git)
+# To see the output [CLICK HERE](https://rainag1.github.io/menu/)
 
 
